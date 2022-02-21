@@ -45,7 +45,7 @@ I'm a developper from 🇫🇷.
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fyroeo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyroeo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=fyroeo&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
