@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me :
 I'm a developper from 🇫🇷.
-- 💻 I'm one of the founders and the president of <a href="https://socialeo.net"><img src="https://socialeo.net/assets/images/logo-no-borders.png" alt="Socialeo logo" width="60px"></a>, a declared non-profit organization specialized in programming, cybersecurity and networks.
+- 💻 I'm one of the founders and the president of <a href="https://socialeo.net"><img src="https://socialeo.net/new-logo-light.png" alt="Socialeo logo" width="60px"></a>, a declared non-profit organization specialized in programming, cybersecurity and networks.
 - 👨‍🎓 I'm studying for a degree in computer engineering at <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Epitech logo" width="60px"></a> with a planned graduation in 2026.
 - 📍 I live in Lyon (Rhône-Alpes) and more occasionally in Roanne (Loire).
 
